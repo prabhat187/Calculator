@@ -2,5 +2,5 @@
 This a basic calculator 
 
 # Website
-[Link to Google](file:///D:/HTML%20sandbox/calc.html)
-
+file:///D:/HTML%20sandbox/Online_Calculator.html
+![This is an image]file:///D:/HTML%20sandbox/Online_Calculator.html
